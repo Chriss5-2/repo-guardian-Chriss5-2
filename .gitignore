@@ -1,0 +1,25 @@
+#Entorno virtual
+venv/
+virtualenv/
+env/
+.virtualenv/
+.venv/
+.env/
+
+#Archivos python
+__pycache__/
+
+# logs
+*.log
+*.out
+*.tmp
+
+# Visual Studio
+.vscode
+
+# Pruebas
+htmlcov/
+.coverage
+*.cover
+.pytest_cache/
+coverage.xml
